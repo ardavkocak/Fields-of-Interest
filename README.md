@@ -16,10 +16,10 @@ Twitter kullanıcılarının attığı tweet'lerden, kullanıcıların **ilgi al
 
 ## Veri Kaynakları
 
-Aşağıdaki JSON dosyaları repoda bulunmaz; bağlantılardan indirilip projeye eklenmelidir:
+Aşağıdaki JSON dosyaları repoda bulunmaz; projeye ayrıca eklenmelidir:
 
-- **StopWords.json** — https://drive.google.com/file/d/14DIqaO0g3mH_3wW6x6bjly2UMTgny9Pv/view?usp=sharing
-- **twitter_data_en_30K.json** — https://drive.google.com/file/d/1o1yS8eksp649b9j3JP7G5g2ZMu7jmNdL/view?usp=sharing
+- **StopWords.json** — İngilizce stopword listesi
+- **twitter_data_en_30K.json** — ~30.000 kullanıcılık tweet veri seti (username, name, followers, following, tweets, language, region)
 
 ## Bağımlılıklar
 
